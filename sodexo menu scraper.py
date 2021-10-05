@@ -7,6 +7,8 @@
 ## in a way to extract the relevant info (titles, menu items, etc)
 
 import requests
+import time
+import datetime as dt
 from bs4 import BeautifulSoup
 
 ##URL = "https://realpython.github.io/fake-jobs/"
@@ -19,16 +21,18 @@ days = soup.find_all("div", class_="bite-day-menu")
 
 while True: ## repeat parsing unless break
     
-    i = 1
+    today = dt.date.today()        
+    weekday = (today.weekday() +1) %7
     while True:
-        ##right now it just relies on user input for dates,
-        ##it would be better to use time modulle but still give choice.
-        today = days[i] ##10/4/21: today (monday) is the second day of week shown.
+        print("using", weekday, "as today's weekday.")
+        today = days[weekday]
+        ## todo: day of the month verification
         print( "Today is", today.get("id") ,end='')
-        if int( input(". Is this correct? (1/0)") ):
+        if int('0'+input(". Is this correct? (1/0)") ):
             break ## if user allows, continue program, otherwise change day.
         else:
-            i = int( input("what day of the week is it? (assuming Mon=1) ") )
+            ## '0'+input prevents error by making it default to 0
+            weekday = int( '0'+input("what day of the week is it? (assuming Sun=0) ") )
 
     today_time_blocks = today.find_all( "div", class_="accordion-block" )
     for time_block in today_time_blocks:
@@ -46,8 +50,9 @@ while True: ## repeat parsing unless break
                 print( item.find("a").text )
 
 
-    if ( int( input("\n\nrun again without reload? (1/0)")) == 0 ):
+    if ( int('0'+input("\n\nrun again without reload? (1/0)")) == 0 ):
         break ## if user inputs 0, end program, otherwise restart parsing
     else:
-        print ("\n"*5) ## whitespace for staying pretty
+        print ("\n"*5)
+        ## go back to start of while loop
 
