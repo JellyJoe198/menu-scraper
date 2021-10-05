@@ -1,7 +1,6 @@
 getting website data...
-Today is menuid-4-day. Is this correct? (1/0)0
-what day of the week is it? (assuming Mon=1) 2
-Today is menuid-5-day. Is this correct? (1/0)6
+using 2 as today's weekday.
+Today is menuid-5-day. Is this correct? (1/0)1
 
 
 BREAKFAST
@@ -11,29 +10,29 @@ BAKERY
 Glazed Cinnamon Roll
 
 GRILLWORKS
-Oatmeal, 6 Oz
-Scrambled Eggs
+Oatmeal
 Sausage Gravy & Biscuit
+Scrambled Eggs
 Simply Roasted Sweet Potatoes
 
 MISCELLANEOUS
 Peripherals
 
 SALAD BAR
-Pineapple
 Strawberry Yogurt
 Fresh Cantaloupe Cubes
+Pineapple
 Fresh Honeydew Melon Cubes
-Diced Peach
 Yoplait Low Fat Vanilla Yogurt
+Diced Peach
 
 
 LUNCH
 --------------------
 
 BAKERY
-Butterscotch Pudding
 Two Chocolate Chip Cookies
+Butterscotch Pudding
 Peanut Butter Chocolate Oreo Brownie
 
 BRICKOVEN
@@ -41,24 +40,24 @@ Chicken Bruschetta Pizza
 Cheese Pizza
 
 DELI
-Wheat Bread
+Sourdough Bread
+White Bread
 Seeded Rye Bread
 10" Flour Tortilla
-White Bread
-Sourdough Bread
-Deli Turkey Breast
+Wheat Bread
 Deli Tuna Salad
-7" Sliced Wheat Sub Roll
 Provolone Cheese, Sliced
+7" Sliced Wheat Sub Roll
+Deli Turkey Breast
 Cheddar Cheese
 Shredded Iceberg Lettuce
+Tomato Slices
 Sliced Red Onions
 Buffet Ham, (96% Ff)
-Tomato Slices
-Hummus
-Swiss Cheese
-6" White Sub Roll
 Genoa Salami
+Hummus
+6" White Sub Roll
+Swiss Cheese
 
 GRILLWORKS
 French Fries
@@ -68,27 +67,27 @@ MISCELLANEOUS
 Peripherals
 
 NOODLES
-Spaghetti
 Spaghetti Sauce
+Spaghetti
 Marinara Sofrito Sauce
 
 SALAD BAR
+Extra Firm Tofu
 Shredded Carrots
 Fresh Broccoli Florets
-Extra Firm Tofu
 Mixed Greens
-Fresh Button Mushrooms
-Fresh Red Onions
 Cherry Tomatoes
 Fresh Spinach
+Fresh Red Onions
+Fresh Button Mushrooms
 Romaine Lettuce (1 Oz)
-Fresh Cucumber
 Hard-boiled Egg
+Fresh Cucumber
 Shredded Mild Cheddar Cheese
 
 SIMPLE SERVINGS
-Quinoa Primavera
 Zucchini Stuffed With Quinoa
+Quinoa Primavera
 Grilled Apple Cider Chicken Breast
 Spinach With Garlic & Onions
 
@@ -110,20 +109,20 @@ BAKERY
 7" Sliced Wheat Sub Roll
 Sourdough Bread
 10" Flour Tortilla
-White Bread
 Wheat Bread
+White Bread
 
 CONDIMENT/GARNISH
-Shredded Mild Cheddar Cheese
 Hummus
+Shredded Mild Cheddar Cheese
 Provolone Cheese, Sliced
 Cheddar Cheese
 Swiss Cheese
 Sliced Red Onions
 
 ENTREE
-Buffet Ham, (96% Ff)
 Extra Firm Tofu
+Buffet Ham, (96% Ff)
 Genoa Salami
 Hard-boiled Egg
 Deli Turkey Breast
@@ -136,15 +135,15 @@ Deli Tuna Salad
 Mixed Greens
 
 VEGETABLE
-Tomato Slices
 Shredded Iceberg Lettuce
+Tomato Slices
 Shredded Carrots
 Fresh Broccoli Florets
 Fresh Button Mushrooms
-Romaine Lettuce (1 Oz)
+Fresh Spinach
 Fresh Red Onions
 Cherry Tomatoes
-Fresh Spinach
+Romaine Lettuce (1 Oz)
 Fresh Cucumber
 
 
@@ -156,8 +155,8 @@ Cherry Cheese Cake Bars
 Pear Cranberry Crumble
 
 BRICKOVEN
-Cheese Pizza
 Pepperoni Pizza
+Cheese Pizza
 
 DESSERT
 Cookies And Cream Blondie
@@ -166,10 +165,10 @@ Applesauce Bar
 Peanut Butter Chocolate Oreo Brownie
 
 GRILLWORKS
-Buffalo Chicken Sauce
 Chicken Patty Sandwich
-French Fries
+Buffalo Chicken Sauce
 Sliced Tomato
+French Fries
 Green Leaf Lettuce
 Sliced Red Onions
 
@@ -182,24 +181,24 @@ Spaghetti Sauce
 Whole Wheat Rotini Pasta
 
 SALAD BAR
-Romaine Lettuce (1 Oz)
-Fresh Button Mushrooms
 Fresh Spinach
 Cherry Tomatoes
+Romaine Lettuce (1 Oz)
 Fresh Red Onions
-Mixed Greens
-Shredded Carrots
+Fresh Button Mushrooms
 Fresh Broccoli Florets
+Shredded Carrots
+Mixed Greens
 Extra Firm Tofu
-Hard-boiled Egg
 Fresh Cucumber
+Hard-boiled Egg
 Shredded Mild Cheddar Cheese
 
 SIMPLE SERVINGS
 Fresh Zucchini With Garlic & Basil
 Spaghetti Squash & Pintos With Sofrito
-Pork Loin With Mango Chipotle Glaze
 Roasted Sweet Potatoes
+Pork Loin With Mango Chipotle Glaze
 
 SOUP
 Old Fashioned Chicken Noodle Soup
@@ -218,8 +217,8 @@ MISCELLANEOUS
 Peripherals
 
 PIZZA
-Pepperoni Pizza
 Cheese Pizza
+Pepperoni Pizza
 
 
-run again without reload? (1/0)0
+run again without reload? (1/0)
