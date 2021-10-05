@@ -1,4 +1,4 @@
-# sodexo-menu-scraper
+# menu-scraper
 Extracts relevant data from online food menu. 
 
 Based on: https://realpython.com/beautiful-soup-web-scraper-python
