@@ -1,0 +1,225 @@
+getting website data...
+Today is menuid-4-day. Is this correct? (1/0)0
+what day of the week is it? (assuming Mon=1) 2
+Today is menuid-5-day. Is this correct? (1/0)6
+
+
+BREAKFAST
+--------------------
+
+BAKERY
+Glazed Cinnamon Roll
+
+GRILLWORKS
+Oatmeal, 6 Oz
+Scrambled Eggs
+Sausage Gravy & Biscuit
+Simply Roasted Sweet Potatoes
+
+MISCELLANEOUS
+Peripherals
+
+SALAD BAR
+Pineapple
+Strawberry Yogurt
+Fresh Cantaloupe Cubes
+Fresh Honeydew Melon Cubes
+Diced Peach
+Yoplait Low Fat Vanilla Yogurt
+
+
+LUNCH
+--------------------
+
+BAKERY
+Butterscotch Pudding
+Two Chocolate Chip Cookies
+Peanut Butter Chocolate Oreo Brownie
+
+BRICKOVEN
+Chicken Bruschetta Pizza
+Cheese Pizza
+
+DELI
+Wheat Bread
+Seeded Rye Bread
+10" Flour Tortilla
+White Bread
+Sourdough Bread
+Deli Turkey Breast
+Deli Tuna Salad
+7" Sliced Wheat Sub Roll
+Provolone Cheese, Sliced
+Cheddar Cheese
+Shredded Iceberg Lettuce
+Sliced Red Onions
+Buffet Ham, (96% Ff)
+Tomato Slices
+Hummus
+Swiss Cheese
+6" White Sub Roll
+Genoa Salami
+
+GRILLWORKS
+French Fries
+Kansas City All Beef Dog
+
+MISCELLANEOUS
+Peripherals
+
+NOODLES
+Spaghetti
+Spaghetti Sauce
+Marinara Sofrito Sauce
+
+SALAD BAR
+Shredded Carrots
+Fresh Broccoli Florets
+Extra Firm Tofu
+Mixed Greens
+Fresh Button Mushrooms
+Fresh Red Onions
+Cherry Tomatoes
+Fresh Spinach
+Romaine Lettuce (1 Oz)
+Fresh Cucumber
+Hard-boiled Egg
+Shredded Mild Cheddar Cheese
+
+SIMPLE SERVINGS
+Quinoa Primavera
+Zucchini Stuffed With Quinoa
+Grilled Apple Cider Chicken Breast
+Spinach With Garlic & Onions
+
+SOUP
+Old Fashioned Chicken Noodle Soup
+Roasted Poblano Corn Chowder
+
+VEGETARIAN/VEGAN
+Kamut
+Steamed Fresh Baby Carrots
+Cajun Black Eyed Pea Casserole
+
+
+AFTERNOON SNACK
+--------------------
+
+BAKERY
+6" White Sub Roll
+7" Sliced Wheat Sub Roll
+Sourdough Bread
+10" Flour Tortilla
+White Bread
+Wheat Bread
+
+CONDIMENT/GARNISH
+Shredded Mild Cheddar Cheese
+Hummus
+Provolone Cheese, Sliced
+Cheddar Cheese
+Swiss Cheese
+Sliced Red Onions
+
+ENTREE
+Buffet Ham, (96% Ff)
+Extra Firm Tofu
+Genoa Salami
+Hard-boiled Egg
+Deli Turkey Breast
+
+MISCELLANEOUS
+Peripherals
+
+SALAD
+Deli Tuna Salad
+Mixed Greens
+
+VEGETABLE
+Tomato Slices
+Shredded Iceberg Lettuce
+Shredded Carrots
+Fresh Broccoli Florets
+Fresh Button Mushrooms
+Romaine Lettuce (1 Oz)
+Fresh Red Onions
+Cherry Tomatoes
+Fresh Spinach
+Fresh Cucumber
+
+
+DINNER
+--------------------
+
+BAKERY
+Cherry Cheese Cake Bars
+Pear Cranberry Crumble
+
+BRICKOVEN
+Cheese Pizza
+Pepperoni Pizza
+
+DESSERT
+Cookies And Cream Blondie
+Chocolate Pudding
+Applesauce Bar
+Peanut Butter Chocolate Oreo Brownie
+
+GRILLWORKS
+Buffalo Chicken Sauce
+Chicken Patty Sandwich
+French Fries
+Sliced Tomato
+Green Leaf Lettuce
+Sliced Red Onions
+
+MISCELLANEOUS
+Peripherals
+
+NOODLES
+Alfredo Sauce
+Spaghetti Sauce
+Whole Wheat Rotini Pasta
+
+SALAD BAR
+Romaine Lettuce (1 Oz)
+Fresh Button Mushrooms
+Fresh Spinach
+Cherry Tomatoes
+Fresh Red Onions
+Mixed Greens
+Shredded Carrots
+Fresh Broccoli Florets
+Extra Firm Tofu
+Hard-boiled Egg
+Fresh Cucumber
+Shredded Mild Cheddar Cheese
+
+SIMPLE SERVINGS
+Fresh Zucchini With Garlic & Basil
+Spaghetti Squash & Pintos With Sofrito
+Pork Loin With Mango Chipotle Glaze
+Roasted Sweet Potatoes
+
+SOUP
+Old Fashioned Chicken Noodle Soup
+Roasted Poblano Corn Chowder
+
+VEGETARIAN/VEGAN
+Sauteed Cabbage & Onion
+Asian Vegetable Stir Fry
+Brown Rice
+
+
+LATE NIGHT
+--------------------
+
+MISCELLANEOUS
+Peripherals
+
+PIZZA
+Pepperoni Pizza
+Cheese Pizza
+
+
+run again without reload? (1/0)0
