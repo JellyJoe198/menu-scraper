@@ -1,0 +1,58 @@
+getting website data...
+using 0 as today's weekday.
+Today is menuid-23-day.
+
+BRUNCH
+--------------------
+
+ GRILLWORKS
+Oven Roasted Home Fries
+Western Scrambled Eggs
+Cinnamon Raisin French Toast
+Egg And Cheese Biscuit
+Grits
+Sausage, Egg And Cheese Biscuit
+
+ NOODLES
+Buffalo Chicken Mac N Cheese
+Four Cheese Mac And Cheese
+Four Cheese And Bacon Mac N Cheese
+
+ SIMPLE SERVINGS
+Roasted Portobello Mushrooms
+Cilantro Cucumber Salad
+Rosemary Roasted Pork Loin
+Simply Smashed Yukon Gold Potatoes
+Roasted Butternut Squash With Thyme
+
+ SOUP
+Curried Lentil & Potato Soup
+
+
+AFTERNOON SNACK
+--------------------
+
+
+DINNER
+--------------------
+
+ GRILLWORKS
+Fried Tater Tots
+Grilled Cheese, Tomato & Bacon
+
+ NOODLES
+Whole Wheat Rotini Pasta
+Marinara Sofrito Sauce
+Spaghetti Sauce
+
+ SIMPLE SERVINGS
+Roasted Plum Tomato
+Garlic Roasted Potato Wedges
+Mustard Seed Green Beans
+Balsamic Grilled Flank Steak
+
+ SOUP
+Curried Lentil & Potato Soup
+
+
+run again without reload? (1/0)
