@@ -4,7 +4,7 @@ Extracts relevant data from online food menu.
 Based on: https://realpython.com/beautiful-soup-web-scraper-python
 
 > [!Warning]
-> The website for the menu changed, and this program no longer works.
+> The website for the menu changed, and this program no longer works. I am happy to review pull requests if someone updates it for the new website.
 
 This program gets the html of the menu from the internet, then parses it in a way to extract the relevant info (titles, menu items, etc) and print that to std out.
 
